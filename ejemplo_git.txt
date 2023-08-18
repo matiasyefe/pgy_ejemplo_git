@@ -1,3 +1,0 @@
-esto es un ejemplo para git 
-y 
-como funciona
